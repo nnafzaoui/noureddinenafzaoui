@@ -1,3 +1,7 @@
-Ochinchin ga daisuki nandayo
 hello my name is othmane
+<<<<<<< HEAD
 nice
+=======
+salut mes amis
+bonjourrsss
+>>>>>>> aa010b3c0a5eaa4a60febad0c96e41e70f11a3c2
